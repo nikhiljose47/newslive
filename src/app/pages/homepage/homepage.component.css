@@ -1,0 +1,17 @@
+/* Make sure footer sticks to bottom if content is short */
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+  
+  body {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  app-root {
+    flex: 1 0 auto;
+    display: flex;
+    flex-direction: column;
+  }
+  

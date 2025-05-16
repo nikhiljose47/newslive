@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "How to have a tweak on producitvity with ChatGPT",
+      "content": "{\"how_chatgpt_can_help\":{\"description\":\"ChatGPT can help you create a writing schedule and assist in drafting a 150-word blog essay based on your input.\",\"input_required\":[\"Topic name\",\"Number of hours (or time blocks) you want to spend\"],\"chatgpt_will\":[\"Break your time into logical writing phases (e.g., research, drafting, editing)\",\"Create a custom time schedule\",\"Write a 150-word essay on your topic\",\"Offer revision support if needed\"],\"writing_phases\":[\"Research & brainstorming\",\"Drafting\",\"Editing & refining\",\"Final review\"],\"example\":{\"input\":{\"topic\":\"Digital Minimalism\",\"time\":\"2 hours\"},\"schedule\":{\"30 mins\":\"Research ideas + outline\",\"60 mins\":\"Write first draft\",\"30 mins\":\"Refine and edit\"},\"action\":\"ChatGPT will generate a 150-word essay based on the topic\"},\"instruction\":\"Just send your topic and available time, and ChatGPT will handle the rest!\"}}",
+      "tags": [
+        "TypeScript",
+        "Programming",
+        "Tutorial"
+      ],
+      "date": "2025-05-02",
+      "metadata": {
+        "author": "Jane Smith",
+        "views": 200,
+        "likes": 40
+      }
+    },
+    {
+      "id": 2,
+      "title": "Looking other peeople society",
+      "content": "People often look to others as a benchmark for their own lives. This habit of constant comparison stems from a deep-rooted societal norm that equates success, beauty, or happiness with what others have or appear to be. Whether it’s scrolling through social media, observing peers, or listening to others' achievements, we begin to measure our worth against someone else’s highlights. This comparative mindset can quickly become toxic, leading to feelings of inadequacy, jealousy, and low self-esteem. Over time, it diminishes our ability to appreciate our own journey, our uniqueness, and our growth. Instead of fostering self-love and self-care, it creates a loop of dissatisfaction. It’s important to understand that everyone’s path is different, and real peace comes from focusing inward—not outward. Cultivating gratitude for where you are, and acknowledging your personal progress, is the foundation of a healthier, more fulfilled life.",
+      "tags": [
+        "Society",
+        "Mind",
+        "People"
+      ],
+      "date": "2025-05-02",
+      "metadata": {
+        "author": "Jane Smith",
+        "views": 200,
+        "likes": 40
+      }
+    }
+  ]
+}
