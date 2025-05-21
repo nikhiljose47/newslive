@@ -31,6 +31,54 @@
         "views": 200,
         "likes": 40
       }
+    },
+    {
+      "id": 3,
+      "title": "Boost Your Confidence and Happiness with a Fresh Haircut",
+      "content": "Sometimes, all it takes to feel refreshed and re-energized is a simple change—and getting a new haircut or hairstyle at a premium salon like Little Rich HairSalon can work wonders. In just an hour or two, you can transform your look, which can instantly uplift your mood and boost your self-esteem. A professional stylist knows exactly how to tailor a cut that suits your face, personality, and lifestyle, giving you a renewed sense of identity. Whether you're preparing for an important event or just need a personal reset, walking out of the salon with a sharp new style can give you that extra confidence to tackle the week. It’s not just about looks—it’s self-care, empowerment, and a small but meaningful way to invest in your happiness. For a few days or even weeks, you’ll catch your reflection and smile. Sometimes, that’s exactly the lift we need.",
+      "tags": [
+        "Society",
+        "Mind",
+        "Motivation"
+      ],
+      "date": "2025-05-02",
+      "metadata": {
+        "author": "Jane Smith",
+        "views": 200,
+        "likes": 40
+      }
+    },
+    {
+      "id": 4,
+      "title": "Think before you go and buy alchohol",
+      "content": "Before making the decision to purchase alcohol, take a moment to reflect on your reasons and the potential impact it might have on your health, relationships, and responsibilities. Are you drinking to celebrate, to cope, or simply out of habit? Consider whether there are healthier ways to manage stress or socialize. Alcohol can impair judgment, affect your mood, and lead to unintended consequences, especially when consumed impulsively. Choose mindfulness over impulse. Your future self will thank you for making decisions that prioritize well-being, self-awareness, and long-term happiness. Make choices that truly serve you, not just in the moment.",
+      "tags": [
+        "Addictions",
+        "Mind",
+        "Motivation"
+      ],
+      "date": "2025-05-02",
+      "metadata": {
+        "author": "Jane Smith",
+        "views": 200,
+        "likes": 40
+      }
+    },
+    {
+      "id": 5,
+      "title": "Operation Sindoor",
+      "content": "Operation Sindoor is more than a military maneuver — it is a strategic initiative symbolizing resilience, sacrifice, and national honor. Launched during heightened tensions and cross-border provocations, including the covert aggression faced from Pakistan, this operation aims to defend the dignity of our people and uphold peace through strength. The term 'Sindoor' symbolizes the cultural and emotional fabric that binds our families, particularly honoring the courage of women whose loved ones stand on the front lines. This operation not only responds to threats with precision but also stands as a tribute to every citizen's right to safety, sovereignty, and justice in the face of adversity.",
+      "tags": [
+        "India",
+        "Politics",
+        "News"
+      ],
+      "date": "2025-05-02",
+      "metadata": {
+        "author": "Jane Smith",
+        "views": 200,
+        "likes": 40
+      }
     }
   ]
 }
